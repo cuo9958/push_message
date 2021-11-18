@@ -1,0 +1,13 @@
+{
+    "apps": [
+        {
+            "name": "push_message@18000",
+            "script": "dist/index.js",
+            "args": [],
+            "env": {
+                "PORT": "18000",
+                "NODE_ENV": "production"
+            }
+        }
+    ]
+}
